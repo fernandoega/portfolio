@@ -262,17 +262,17 @@ function App() {
   transition={{ duration: 1 }}
   className="text-5xl md:text-8xl font-black leading-tight"
 >
-  Creative <br />
+  Fresh Graduate <br />
 
   <TypeAnimation
     sequence={[
-      "Web Developer",
+      "Junior Web Developer",
       2000,
-      "Data Scientist",
+      "Desain",
       2000,
-      "UI/UX Designer",
+      "Analisis Sentimen",
       2000,
-      "Machine Learning Enthusiast",
+      "Machine Learning",
       2000,
     ]}
     wrapper="span"
