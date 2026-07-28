@@ -419,7 +419,7 @@ function App() {
       <FaReact className="text-6xl text-cyan-400 mx-auto mb-6 group-hover:rotate-180 transition duration-700" />
 
       <h3 className="text-3xl font-bold mb-4">
-        React JS
+        Web Development
       </h3>
 
       <p className="text-gray-400 leading-7">
@@ -800,7 +800,7 @@ function App() {
         {/* EMAIL */}
         <motion.a
           whileHover={{ scale: 1.03 }}
-          href="mailto:emailkamu@gmail.com"
+          href="mailto:fernandoega.fe@gmail.com"
           className="flex items-center gap-5 bg-white/5 border border-cyan-500/10 rounded-3xl p-6 hover:border-cyan-400/40 transition duration-500"
         >
 
@@ -812,7 +812,7 @@ function App() {
             </h3>
 
             <p className="text-gray-400">
-              emailkamu@gmail.com
+              fernandoega.fe@gmail.com
             </p>
           </div>
 
@@ -821,7 +821,7 @@ function App() {
         {/* WHATSAPP */}
         <motion.a
           whileHover={{ scale: 1.03 }}
-          href="https://wa.me/628xxxxxxxxxx"
+          href="https://wa.me/6289609764462"
           target="_blank"
           className="flex items-center gap-5 bg-white/5 border border-cyan-500/10 rounded-3xl p-6 hover:border-cyan-400/40 transition duration-500"
         >
@@ -834,7 +834,7 @@ function App() {
             </h3>
 
             <p className="text-gray-400">
-              +62 xxx xxxx xxxx
+              +62 896 0976 4462
             </p>
           </div>
 
@@ -843,7 +843,7 @@ function App() {
         {/* GITHUB */}
         <motion.a
           whileHover={{ scale: 1.03 }}
-          href="https://github.com/"
+          href="https://github.com/fernandoega"
           target="_blank"
           className="flex items-center gap-5 bg-white/5 border border-cyan-500/10 rounded-3xl p-6 hover:border-cyan-400/40 transition duration-500"
         >
@@ -856,7 +856,7 @@ function App() {
             </h3>
 
             <p className="text-gray-400">
-              github.com/username
+              github.com/fernandoega
             </p>
           </div>
 
@@ -878,7 +878,7 @@ function App() {
             </h3>
 
             <p className="text-gray-400">
-              linkedin.com/in/username
+              www.linkedin.com/in/fernando-ega-hotama-b13921414
             </p>
           </div>
 
@@ -894,7 +894,7 @@ function App() {
       {/* FOOTER */}
       <footer className="border-t border-cyan-500/10 py-10 text-center text-gray-500 relative z-10">
         <p>
-          © 2026 Ega Portfolio — Designed with React & Tailwind CSS
+          © 2026 Fernando Ega Hotama Portfolio — Designed with React & Tailwind CSS
         </p>
       </footer>
 
